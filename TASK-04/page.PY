@@ -2,8 +2,8 @@ import requests
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
 
 # API code and Telegram token
-TOKEN = "7495828384:AAH9IwhVNrwL9w0eX1rKv7ou1YRl5U4XhY0"
-GOOGLE_BOOKS_API_KEY = "AIzaSyDhuXHKI8QUpTJsHU928_v1YSxYfNKJTpg"
+TOKEN = ""
+GOOGLE_BOOKS_API_KEY = ""
 
 def get_books_by_genre(genre):
     url = f":{genre}&key={GOOGLE_BOOKS_API_KEY}"
