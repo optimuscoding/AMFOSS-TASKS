@@ -32,4 +32,4 @@ TASKS
 | [TASK-7](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-07) | Pirate's Dilemma | Completed  |
 | [TASK-8](https://medium.com/@optimuscoding8/blog-burst-c404f03b0e57)|  Blog Burst | Completed   |
 | TASK-9| HERO-DEX! | Not Done   |
-| [TASK-10](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-10) | Operation Pixel Merge | Completed |
+| [TASK-10](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/Task-10) | Operation Pixel Merge | Completed |
