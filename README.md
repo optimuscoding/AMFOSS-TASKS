@@ -26,7 +26,7 @@ TASKS
 | [TASK-1](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-01) |  Type Maestro | Completed  |
 | TASK-2| Terminal Chaos | Not Done   |
 | [TASK-3](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-03) | Hello, World! | Completed  |
-| [TASK-4](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-04) | Gopal and his PagePal | Not Done   |
+| [TASK-4](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-04) | Gopal and his PagePal | Completed   |
 | [TASK-5](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-05) | TerminalTrolly | Completed  |
 | TASK-6| OpenDocs | Not Done   |
 | [TASK-7](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-07) | Pirate's Dilemma | Completed  |
