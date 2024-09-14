@@ -24,7 +24,7 @@ def format_book_details(book):
     return f"**{title}** by {author}\n{description}\nPublished: {published_year}\nLanguage: {language}\nPreview: {preview}"
 
 async def handle_start(update, context):
-    await context.bot.send_message(chat_id=1, text="Welcome to BookBot! Use /help for commands.")
+    await context.bot.send_message(chat_id=, text="Welcome to BookBot! Use /help for commands.")
 
 async def handle_book(update, context):
     await context.bot.send_message(chat_id=, text="Please provide a book title or author to search for.")
@@ -36,7 +36,7 @@ async def handle_list(update, context):
     await context.bot.send_message(chat_id=, text="Here's a list of popular books.")
 
 async def handle_reading_list(update, context):
-    await context.bot.send_message(chat_id=1, text="Here's your reading list.")
+    await context.bot.send_message(chat_id=, text="Here's your reading list.")
 
 async def handle_help(update, context):
     await context.bot.send_message(chat_id=, text="/start - Welcome message\n/book - Search for books\n/preview - Preview a book\n/list - List of popular books\n/reading_list - Your reading list\n/help - Help text")
