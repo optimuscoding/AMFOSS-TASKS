@@ -24,7 +24,7 @@ TASKS
 |----------|--------------|------------|
 | [TASK-0](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-00) | Install Linux | Completed  |
 | [TASK-1](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-01) |  Type Maestro | Completed  |
-| TASK-2]| Terminal Chaos | Not Done   |
+| TASK-2| Terminal Chaos | Not Done   |
 | [TASK-3](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-03) | Hello, World! | Completed  |
 | [TASK-4](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-04) | Gopal and his PagePal | Not Done   |
 | [TASK-5](https://github.com/optimuscoding/AMFOSS-TASKS/tree/master/TASK-05) | TerminalTrolly | Completed  |
